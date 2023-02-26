@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-1.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-1.jpg"
+    },
+    {
+        "id": "2",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-2.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-2.jpg"
+    },
+    {
+        "id": "3",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-3.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-3.jpg"
+    },
+    {
+        "id": "4",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-4.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-4.jpg"
+    },
+    {
+        "id": "5",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-5.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-5.jpg"
+    },
+    {
+        "id": "6",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-6.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-6.jpg"
+    },
+    {
+        "id": "7",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-7.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-7.jpg"
+    },
+    {
+        "id": "8",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-8.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-8.jpg"
+    },
+    {
+        "id": "9",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-9.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-9.jpg"
+    },
+    {
+        "id": "10",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-10.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-10.jpg"
+    },
+    {
+        "id": "11",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-11.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-11.jpg"
+    },
+    {
+        "id": "12",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-12.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-12.jpg"
+    }
+]
