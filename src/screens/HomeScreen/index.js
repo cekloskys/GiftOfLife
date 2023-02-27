@@ -21,7 +21,7 @@ const HomeScreen = () => {
         />
       </View>
       <CountDown
-        until={msTillEvent / 1000}
+        until={msTillEvent / 2000}
         onFinish={() => Alert.alert('Gift of Life', 'Let\'s Celebrate!')}
         onPress={() => Alert.alert('Gift of Life', 'Students Save Lives!')}
         size={30}

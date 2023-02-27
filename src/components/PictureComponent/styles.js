@@ -7,8 +7,8 @@ const styles = StyleSheet.create({
     aspectRatio: 3/2,
     flex: 1, 
     zIndex: 1,
-    marginTop: 10,
-    resizeMode: 'contain',
+    marginVertical: 5,
+    //resizeMode: 'contain',
     borderRadius: 5,
   },
 });

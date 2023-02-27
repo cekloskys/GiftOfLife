@@ -17,9 +17,15 @@ const InformationScreen = () => {
         style={styles.video}
         source={{uri: "https://giftoflifechc.s3.amazonaws.com/PSA_Captions_wtrmk.mp4"}}
         posterSource={require('../../../assets/GriffinsforLife.jpg')}
-        posterStyle={{resizeMode: 'cover'}}
-        usePoster={true}
-        useNativeControls
+        posterStyle={{
+          resizeMode: 'cover', 
+          width: '100%', 
+          height: '100%',
+          alignSelf: 'center', 
+          borderRadius: 5,
+        }}
+        usePoster={false}
+        useNativeControls={true}
         resizeMode="contain"
       />
     </ScrollView>
