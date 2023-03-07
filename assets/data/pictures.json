@@ -55,8 +55,18 @@
         "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-11.jpg"
     },
     {
-        "id": "12",
-        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-12.pdf",
-        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-12.jpg"
+        "id": "15",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-15.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-15.jpg"
+    },
+    {
+        "id": "13",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-13.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-13.jpg"
+    },
+    {
+        "id": "14",
+        "pdfUri": "https://giftoflifechc.s3.amazonaws.com/page-14.pdf",
+        "imgUri": "https://giftoflifechc.s3.amazonaws.com/pic-14.jpg"
     }
 ]

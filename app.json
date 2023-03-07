@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "GiftOfLife",
-    "slug": "GiftOfLife",
+    "name": "Griffins For Life",
+    "slug": "GriffinsForLife",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.griffins.forlife",
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -28,6 +30,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a083c67f-cc99-4218-839a-f7e0505d377c"
+      }
     }
   }
 }
